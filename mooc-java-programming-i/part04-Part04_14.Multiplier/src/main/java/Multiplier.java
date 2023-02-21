@@ -7,7 +7,7 @@ public class Multiplier {
     }
 
     public int multiply(int number) {
-        return this.number * number * 999;
+        return this.number * number * 0253;
     }
 
 }
